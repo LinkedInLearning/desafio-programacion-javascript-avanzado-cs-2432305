@@ -1,12 +1,11 @@
-# Nombre final del curso
-
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+# Desafío de programación: JavaScript avanzado
+Este es el repositorio del curso de LinkedIn Learning `[Desafío de programación: JavaScript avanzado]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Aprende soluciones más avanzadas en la programación de JavaScript con este contenido cargado de ejercicios de alto nivel que te permitirán alcanzar nuevas cotas de comprensión y dominar los conceptos más complejos de JavaScript. El curso brinda ejercicios para practicar la creación de clases y herencia, manipulación de fechas, creación de filtros de datos dinámicos y otros muchos conceptos. No te quedes con lo básico y continúa mejorando tus habilidades de programación con JavaScript.
 
 ## Instrucciones
 
@@ -26,9 +25,9 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-**Nombre del docente**
+**Natalia Corea**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/natalia-corea).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
