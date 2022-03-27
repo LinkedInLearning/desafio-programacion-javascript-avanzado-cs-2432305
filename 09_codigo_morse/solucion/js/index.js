@@ -9,4 +9,4 @@ input.addEventListener('input', ()=>{
     const valor = input.value.toLowerCase().split('');
     const valorTraducido = valor.map(letra=> `${CODIGO_MORSE[letra]}` ?? letra).join('');
     resultados.innerText = valorTraducido;
-})
+});
