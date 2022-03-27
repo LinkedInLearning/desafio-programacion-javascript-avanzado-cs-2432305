@@ -1,0 +1,40 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    display: flex;
+    
+}
+
+input{
+    height: 30px;
+    margin-bottom: 1rem;
+}
+
+button{
+    height: 40px;
+    width: 50%;
+    font-size: 1rem;
+    margin: 0 5px;
+}
+
+span{
+    text-align: center;
+    border: 1px dotted black;
+    padding: 10px 30px;
+}
+
+.contenedor{
+    flex-direction: column;
+    margin: 0 10% 1rem 10%;
+}
+
+.fila-butones{
+    flex-direction: row;
+    margin-bottom: 1rem;
+}
