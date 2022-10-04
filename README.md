@@ -1,36 +1,27 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Desafío de programación: JavaScript avanzado
 
-![course-name-alt-text][lil-thumbnail-url] 
+Este es el repositorio del curso de LinkedIn Learning `[Desafío de programación: JavaScript avanzado]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+![image](https://user-images.githubusercontent.com/71371373/193788732-9f4f63eb-cded-426c-ac26-2ffdc0b77202.png)
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
+Aprende soluciones más avanzadas en la programación de JavaScript con este contenido cargado de ejercicios de alto nivel que te permitirán alcanzar nuevas cotas de comprensión y dominar los conceptos más complejos de JavaScript. El curso brinda ejercicios para practicar la creación de clases y herencia, manipulación de fechas, creación de filtros de datos dinámicos y otros muchos conceptos. No te quedes con lo básico y continúa mejorando tus habilidades de programación con JavaScript.
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
+## Instrucciones
 
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
+Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+## Ramas
 
+Las ramas están estructuradas para corresponder a los vídeos del curso y la convención de nomenclatura es Vídeo#_i y Vídeo#_f. Todas las ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el código para desarrollar el ejercicio mientras que la branch f contiene la solución. Por ejemplo, la rama denominada `02_i` corresponde al segundo desafío y `02_f` contiene la solución.
+
+### Docente
+
+**Natalia Corea**
+
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/natalia-corea).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
-
+[lil-course-url]: https://www.linkedin.com/learning/desafio-de-programacion-javascript-avanzado
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQHUhMdZ271IlA/learning-public-crop_675_1200/0/1653985859528?e=1659682800&v=beta&t=ZgKfwkmYmgZQD9c7SlTtfFhumZbPTAYUUlAIN3SfWNQ
